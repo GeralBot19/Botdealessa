@@ -9,7 +9,7 @@ let handler = async (m, {conn, text }) => {
   let teks = results.all.map(v => {
     switch (v.type) {
       case 'video': return `-----------------------------------------------
-𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭
+      𝐁𝐨𝐭 𝐝𝐞 𝐀𝐥𝐞𝐬𝐬𝐚
 🍀 *${v.title}* (${v.url})
 🫐 *_Link :_* ${v.url}
 🕒 *_Duration:* ${v.timestamp}

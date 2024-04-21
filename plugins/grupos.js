@@ -18,11 +18,11 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
+let str = `╭「 𝐁𝐨𝐭 𝐝𝐞 𝐀𝐥𝐞𝐬𝐬𝐚 」
 │➯𝗛ᴏʟᴀ,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Geral-Bot
-│➯ *𝙸𝙽𝙵𝙾: Wa.me/51935763050
-│➯ *Yape: 900711258
+│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:𝐀𝐥𝐞𝐬𝐬𝐚
+│➯ *𝙸𝙽𝙵𝙾: Wa.me/51922726406
+│➯ *Yape: 960380073    
 │➯ғᴇᴄʜᴀ:➟${date}
 │➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
 │➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
@@ -30,11 +30,11 @@ let str = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「➻❥*Grupos y cuentas*➻❥」
 │➯𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰
-│➯https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon
+│➯https://chat.whatsapp.com/EW1SH664vlu3UVOC9ILCnS
 │➯𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰
-│➯https://chat.whatsapp.com/KnQXMl0VGec71K9K42Vaon
+│➯https://chat.whatsapp.com/EW1SH664vlu3UVOC9ILCnS
 │➯𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰
-│➯https://chat.whatsapp.com/BuloWd29LSnDZHXtUJDybF
+│➯https://chat.whatsapp.com/EW1SH664vlu3UVOC9ILCnS
 │➯𝚙á𝚐𝚒𝚗𝚊 𝚍𝚎 𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔
 │➯https://www.facebook.com/groups/987464505464904/?ref=share
 │➯𝚌𝚊𝚗𝚊𝚕 𝚍𝚎 𝚈𝚘𝚞𝚃𝚞𝚋𝚎

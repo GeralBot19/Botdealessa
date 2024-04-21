@@ -19,14 +19,14 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
-let str = `╭「 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 」
-│➯ *𝗛ᴏʟᴀ,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Geral-Bot
-│➯ *𝙸𝙽𝙵𝙾: Wa.me/51988802645
-│➯ *Yape: 988802645
-│➯ *ғᴇᴄʜᴀ:➟${date}
-│➯ *ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
-│➯ *ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
+let str = `╭「 𝐁𝐨𝐭 𝐝𝐞 𝐀𝐥𝐞𝐬𝐬𝐚 」
+│➯𝗛ᴏʟᴀ,➟${taguser}
+│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁:𝐀𝐥𝐞𝐬𝐬𝐚
+│➯ *𝙸𝙽𝙵𝙾: Wa.me/51922726406
+│➯ *Yape: 960380073    
+│➯ғᴇᴄʜᴀ:➟${date}
+│➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
+│➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭─「➻❥ *Estadísticas* ➻❥」
