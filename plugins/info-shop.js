@@ -24,7 +24,7 @@ let text = `╭「 𝐁𝐨𝐭 𝐝𝐞 𝐀𝐥𝐞𝐬𝐬𝐚 ➻❥
 let buttonMessage= {
 'document': { url: `https://github.com/GeralBot/prueba` },
 'mimetype': `application/${document}`,
-'fileName': ` 𝐆𝐁𝐨𝐭 𝐝𝐞 𝐀𝐥𝐞𝐬𝐬𝐚 ✍`,
+'fileName': ` 𝐁𝐨𝐭 𝐝𝐞 𝐀𝐥𝐞𝐬𝐬𝐚 ✍`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {

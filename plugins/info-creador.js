@@ -2,16 +2,16 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `╭─「➻❥ *owner* ➻❥」
-│➯ 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 ✍
-│➯Wa.me/51935763050 (CREADOR)
-│➯Wa.me/51935763050 (CREADOR) 
-│➯Wa.me/51935763050 (CREADOR)
-│➯Wa.me/51935763050  (CREADOR)
+│➯ 𝐀𝐥𝐞𝐬𝐬𝐚 ✍
+│➯Wa.me/922726406 (CREADOR)
+│➯Wa.me/922726406(CREADOR) 
+│➯Wa.me/922726406 (CREADOR)
+│➯Wa.me/922726406  (CREADOR)
 ╰───────────────╯`.trim()   
 let buttonMessage= {
 'document': { url: `https://github.com/GeralBot/prueba` },
 'mimetype': `application/${document}`,
-'fileName': `𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 ✍`,
+'fileName': `𝐀𝐥𝐞𝐬𝐬𝐚 ✍`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
