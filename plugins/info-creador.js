@@ -4,9 +4,9 @@ var document = doc[Math.floor(Math.random() * doc.length)]
 let text = `╭─「➻❥ *owner* ➻❥」
 │➯ 𝐀𝐥𝐞𝐬𝐬𝐚 ✍
 │➯Wa.me/922726406 (CREADOR)
-│➯Wa.me/922726406(CREADOR) 
+│➯Wa.me/922726406 (CREADOR) 
 │➯Wa.me/922726406 (CREADOR)
-│➯Wa.me/922726406  (CREADOR)
+│➯Wa.me/922726406 (CREADOR)
 ╰───────────────╯`.trim()   
 let buttonMessage= {
 'document': { url: `https://github.com/GeralBot/prueba` },

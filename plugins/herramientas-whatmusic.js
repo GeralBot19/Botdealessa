@@ -1,4 +1,4 @@
-import fs from 'fs'
+𝙱𝙾𝚃 𝙳𝙴 𝙰𝙽𝙳𝚁𝙴𝚆import fs from 'fs'
 import acrcloud from 'acrcloud'
 let acr = new acrcloud({
 host: 'identify-eu-west-1.acrcloud.com',
